@@ -4,7 +4,7 @@ So I am learning Full Stack Web Development course in Masai School, In Masai sch
 
 # TEAM
 
-- *SURAJ YADAV*  [LINKEDIN](https://www.linkedin.com/in/suraj-yadav-0b84601b2/) [GITHUB](https://github.com/SurajYadav22)
+- *SURAJ YADAV*  [LINKEDIN](https://www.linkedin.com/in/dev-suraj/) [GITHUB](https://github.com/SurajYadav22)
 
 - *KOMAL KUMAR*  [LINKEDIN](https://www.linkedin.com/in/komal-kumar-bvcoe/) [GITHUB](https://github.com/bewithkomalkumar)
 
@@ -32,58 +32,46 @@ So I am learning Full Stack Web Development course in Masai School, In Masai sch
 
 ## HOMEPAGE
 
-[Screenshot](https://cdn.hashnode.com/res/hashnode/image/upload/v1662829815829/QmVUtyJsw.png)
+![Screenshot (1927)](https://user-images.githubusercontent.com/108898197/202364457-0eada862-b4be-40d5-bace-19958d226113.png)
 
-[Screenshot (716).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1662829873951/_-JbQLaBt.png align="left")
+
+![Screenshot (1928)](https://user-images.githubusercontent.com/108898197/202365023-49fa2ce7-3d00-4573-b4f0-f670211f2e74.png)
+
 
 
 ## SIGN UP 
-
-![Screenshot (731).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1662830546866/6stJatjzd.png align="left")
+![Screenshot (1929)](https://user-images.githubusercontent.com/108898197/202365262-2d0628da-26a1-4e6a-8755-1a18d8cda3e1.png)
 
 ## LOGIN
 
-
-![Screenshot (732).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1662830567725/2PJZ0sTuL.png align="left")
+![Screenshot (1930)](https://user-images.githubusercontent.com/108898197/202365330-951bb49a-9ffc-411b-a298-f70a1374cff2.png)
 
 ## FITNESS PAGE
 
-
-![Screenshot (718).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1662829932693/EZFkR41fV.png align="left")
-
-
-![Screenshot (719).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1662829953204/bz-IAoizt.png align="left")
+![Screenshot (1931)](https://user-images.githubusercontent.com/108898197/202365397-b223a0cf-6ff1-49bd-9556-dcb5db39a726.png)
+![Screenshot (1932)](https://user-images.githubusercontent.com/108898197/202365520-aabd3094-3b69-45cf-8ef9-121e3c00f47f.png)
 
 ## LAB PAGE
 
-
-![Screenshot (729).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1662830025614/2KVrsfk33.png align="left")
-
-  
-![Screenshot (721).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1662830098994/ey5F-qINE.png align="left")
-
+![Screenshot (1933)](https://user-images.githubusercontent.com/108898197/202365593-278f826f-ef91-4c0c-be29-98fc925273fa.png)
+![Screenshot (1934)](https://user-images.githubusercontent.com/108898197/202365689-61c3caac-6233-4fcf-a188-451b1acd2612.png)
 
 ## MINDFULNESS
 
+![Screenshot (1935)](https://user-images.githubusercontent.com/108898197/202365741-e7d2741d-b20e-417c-9c42-e7db7d2310de.png)
 
-![Screenshot (728).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1662830185868/r8JD7oZMA.png align="left")
 
 ## PRODUCT & CART
 
-
-![Screenshot (723).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1662830286876/BfDeGCiEyB.png align="left")
-
-
-![Screenshot (724).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1662830308774/0HRhwoQw1.png align="left")
-
-
-
-![Screenshot (726).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1662830327815/fuo4BLc5t.png align="left")
+![Screenshot (1936)](https://user-images.githubusercontent.com/108898197/202365786-aab98328-b3e9-476b-b055-71a3fe096dfc.png)
+![Screenshot (1937)](https://user-images.githubusercontent.com/108898197/202365813-0540cff6-998d-4c02-971d-bcc9477fa80a.png)
+![Screenshot (1938)](https://user-images.githubusercontent.com/108898197/202365864-7c334f8e-3b57-4909-b0be-fe4c40e7be42.png)
 
 
 ## FOOTER
 
-![Screenshot (717).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1662830377426/CvZTMmMhM.png align="left")
+![Screenshot (1939)](https://user-images.githubusercontent.com/108898197/202365897-7ef5db28-e994-4b98-8854-30d83b32f657.png)
+
 
 ## LEARNING OUTCOME
 In this project, we faced a lot of challenges like collaborating with all team members at the same time. 
